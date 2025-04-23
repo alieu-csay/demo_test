@@ -9,7 +9,7 @@
 #Question one
 
 import os
-# first create an empty list
+# first create an empty list list
 my_list = []
 
 #import our fasta file to work with
