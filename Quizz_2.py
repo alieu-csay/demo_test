@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # worksshop 2
+# Dr Andrew Tedder
 
 # In[46]:
 
